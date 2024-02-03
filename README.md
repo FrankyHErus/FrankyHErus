@@ -22,7 +22,7 @@
 <hr />
 
 <div align="center">
-  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=frankyherus&show_icons=false&theme=dark" />
+  <img height="100%" width="50%" src="https://github-readme-stats.vercel.app/api?username=frankyherus&show_icons=true&theme=dark" />
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankyherus&theme=dark&hide_progress=true" />
 </div>  
 
